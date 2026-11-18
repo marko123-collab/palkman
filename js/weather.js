@@ -1,21 +1,21 @@
-// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-18 05:55 UTC)
+// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-18 07:00 UTC)
 window.CAMPUS_WEATHER = {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
   "source": "Open-Meteo API (Fallback)",
-  "condition": "night",
-  "condition_label": "Nocna sesja na ALK",
-  "icon": "🌙",
-  "temp_c": 7.1,
-  "humidity": 91,
+  "condition": "cloudy",
+  "condition_label": "Umiarkowane zachmurzenie",
+  "icon": "☁️",
+  "temp_c": 6.8,
+  "humidity": 92,
   "precipitation_mm": 0.0,
-  "is_day": false,
+  "is_day": true,
   "campus_alert": "Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.",
   "game_effects": {
     "theme_class": "weather-cloudy",
     "particles": "none",
     "player_friction": 0.98,
     "professor_quote": "Gdzie podziały się arkusze z egzaminu z mikroekonomii?!",
-    "hud_badge": "🌙 7.1°C | Nocna sesja na ALK"
+    "hud_badge": "☁️ 6.8°C | Umiarkowane zachmurzenie"
   },
-  "last_updated": "2026-11-18 05:55 UTC"
+  "last_updated": "2026-11-18 07:00 UTC"
 };
