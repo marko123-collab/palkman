@@ -1,15 +1,15 @@
 # 🌦️ Raport Aury na Kampusie ALK – Potok GitHub Actions
 
-* **Data aktualizacji:** `2026-11-19 12:59 UTC`
-* **Źródło danych:** `Symulacja manualna (Workflow Dispatch)`
+* **Data aktualizacji:** `2026-11-19 14:21 UTC`
+* **Źródło danych:** `Open-Meteo API (Fallback)`
 * **Lokalizacja:** Warszawa, ul. Jagiellońska 57/59 (Kampus ALK)
 
 ## Parametry Aury:
 | Parametr | Wartość |
 | :--- | :--- |
-| **Stan ogólny** | ☀️ Pełne słońce nad Patio ALK (Test CI/CD) (`sunny`) |
-| **Temperatura** | **24.0 °C** |
-| **Wilgotność względna** | 45 % |
+| **Stan ogólny** | ☀️ Słonecznie nad Kampusem ALK (`sunny`) |
+| **Temperatura** | **9.9 °C** |
+| **Wilgotność względna** | 76 % |
 | **Opady** | 0.0 mm |
 | **Pora doby** | Dzień ☀️ |
 
