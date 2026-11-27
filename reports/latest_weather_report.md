@@ -1,17 +1,17 @@
 # 🌦️ Raport Aury na Kampusie ALK – Potok GitHub Actions
 
-* **Data aktualizacji:** `2026-11-27 00:58 UTC`
+* **Data aktualizacji:** `2026-11-27 09:35 UTC`
 * **Źródło danych:** `Open-Meteo API (Fallback)`
 * **Lokalizacja:** Warszawa, ul. Jagiellońska 57/59 (Kampus ALK)
 
 ## Parametry Aury:
 | Parametr | Wartość |
 | :--- | :--- |
-| **Stan ogólny** | 🌙 Nocna sesja na ALK (`night`) |
-| **Temperatura** | **-0.8 °C** |
-| **Wilgotność względna** | 80 % |
+| **Stan ogólny** | ☁️ Umiarkowane zachmurzenie (`cloudy`) |
+| **Temperatura** | **0.3 °C** |
+| **Wilgotność względna** | 79 % |
 | **Opady** | 0.0 mm |
-| **Pora doby** | Noc 🌙 |
+| **Pora doby** | Dzień ☀️ |
 
 ## Wpływ na Rozgrywkę „Kozminski Escape”:
 * **Komunikat Dziekanatu:** *„Umiarkowane zachmurzenie nad kampusem. Idealne warunki do nauki i ucieczki przed sesją.”*
